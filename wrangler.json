@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "cold-river-c522",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9aa1d917-18af-422b-8a39-1b09509f90c6",
+      "database_name": "nameless-breeze-a0f5-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
